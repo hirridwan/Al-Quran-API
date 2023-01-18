@@ -3,3 +3,8 @@
 ## Tentang Barokah Al-Qur'an
 
 Aplikasi ini dibangun dengan menggunakan Laravel sebagai Back-End dan Bootstrap sebagai Front-End. Aplikasi ini menggunakan API Resource dari https://equran.id/apidev
+
+## Demo
+
+Demo aplikasi bisa dilihat di link berikut:
+https://

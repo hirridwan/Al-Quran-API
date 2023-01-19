@@ -90,8 +90,8 @@
 
         <div class="row">
             @foreach($data as $datas => $d)
-          <div class="col-xl-3 col-md-6 align-items-stretch mb-4" data-aos="zoom-in" data-aos-delay="100">
-            <div class="icon-box">
+          <div class="col-xl-3 col-md-6 align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box mb-4">
               <h4>{{ $d['nomor'] }}</h4>
               <h4>{{ $d['nama'] }}</h4>
               <h5>{{ $d['nama_latin'] }}</h5>

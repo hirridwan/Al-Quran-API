@@ -8,3 +8,7 @@ Aplikasi ini dibangun dengan menggunakan Laravel sebagai Back-End dan Bootstrap 
 
 Demo aplikasi bisa dilihat di link berikut:
 https://
+
+## Instalasi
+
+Clone projek, ketikkan composer install di terminal, dan jalankan dengan perintah php artisan serve
